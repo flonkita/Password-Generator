@@ -1,6 +1,6 @@
-### Générateur de mot de passe 
+# Générateur de mot de passe 
 
-## Utilisation 
+## Présentation
 
 Ce générateur peut servir à créer de manière totalement aléatoire un mot de passe de 1 à 25 caractères.
 Il contient ses options suivantes :
@@ -13,3 +13,7 @@ Il contient ses options suivantes :
 
 Il y a un range input pour mettre le nombres de caractères à avoir pour le mot de passe
 Plus vous cochez ces options plus le mot de passe généré sera complexe et sécurisé .
+
+## Remerciments
+
+Merci à Guy Mandina pour l'idée de ce générateur de mot de passe (d'abord en python pour que le fasse en Javascript)
