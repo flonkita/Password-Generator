@@ -11,4 +11,5 @@ Il contient ses options suivantes :
 - Pas de répétition
 - Symboles
 
+Il y a un range input pour mettre le nombres de caractères à avoir pour le mot de passe
 Plus vous cochez ces options plus le mot de passe généré sera complexe et sécurisé .
